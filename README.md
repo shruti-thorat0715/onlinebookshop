@@ -4,6 +4,8 @@ This is a simple **menu-driven Java console application** that simulates an onli
 
 ---
 
+_______________________________________________________________________________________________________________________________________________________________
+
 ## 📦 Project Structure
 
 - **Maven project** with `pom.xml` for dependency management.
@@ -13,6 +15,8 @@ This is a simple **menu-driven Java console application** that simulates an onli
 
 ---
 
+___________________________________________________________________________________________________________________________________________________________________
+
 ## 🛠️ Technologies Used
 
 - Java (JDK 11+)
@@ -21,6 +25,8 @@ This is a simple **menu-driven Java console application** that simulates an onli
 - Maven (Build tool)
 
 ---
+_____________________________________________________________________________________________________________________________________________________________
+
 
 ## 🗃️ Database Tables
 
@@ -40,6 +46,9 @@ The initial version includes full functionality for managing:
 
 ---
 
+_________________________________________________________________________________________________________________________________________________________
+
+
 ## 🧰 Prerequisites
 
 - JDK 11 or higher
@@ -48,6 +57,8 @@ The initial version includes full functionality for managing:
 - Database `bookshop` created in PostgreSQL
 
 ---
+
+___________________________________________________________________________________________________________________________________________________________
 
 ## ⚙️ Setup Instructions
 
@@ -63,20 +74,69 @@ CREATE DATABASE bookshop;
   - `onlinebookshopapp.java`
   - `createtables.java`
 
+_______________________________________________________________________________________________________________________________________________________________
+
 ```java
 static final String DB_URL = "jdbc:postgresql://localhost:5432/mydb";
 static final String USER = "postgres";
 static final String PASS = "shrutu";
 ```
 
+_________________________________________________________________________________________________________________________________________________________________
+
+**dependencies:**
+
+ <dependencies>
+   
+        <!-- PostgreSQL JDBC Driver -->
+        
+        <dependency>
+        
+            <groupId>org.postgresql</groupId>
+            
+            <artifactId>postgresql</artifactId>
+            
+            <version>42.7.3</version> <!-- Use latest version available -->
+            
+        </dependency>
+        
+    </dependencies>
+
+___________________________________________________________________________________________________________________________________________________________
+
 2. 📂 Project Directory Structure
 
 project-root/
+
 │
+
 ├── pom.xml
+
 └── src/
+
     └── main/
+    
         └── java/
+        
             └── main/
+            
                 ├── createtables.java
+                
                 └── onlinebookshopapp.java
+
+______________________________________________________________________________________________________________________________________                
+
+**3.Contact:**
+For any questions or feedback, feel free to reach out:
+
+**Your Name :** shruti thorat
+
+**Email:** shrutithorat767@gmail.com
+
+**GitHub:** shruti-thorat0715
+
+____________________________________________________________________________________________________________________________________________________________
+
+**Enjoy using the Online Book Shop! 🚀**
+
+
