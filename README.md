@@ -84,7 +84,7 @@ static final String PASS = "shrutu";
 
 _________________________________________________________________________________________________________________________________________________________________
 
-**dependencies:**
+**🔧dependencies:**
 
  <dependencies>
    
@@ -126,7 +126,7 @@ project-root/
 
 ______________________________________________________________________________________________________________________________________                
 
-**3.Contact:**
+**3.📞Contact:**
 For any questions or feedback, feel free to reach out:
 
 **Your Name :** shruti thorat
@@ -137,6 +137,18 @@ For any questions or feedback, feel free to reach out:
 
 ____________________________________________________________________________________________________________________________________________________________
 
-**Enjoy using the Online Book Shop! 🚀**
+**4.📷ScreenShots of output:**
+
+![Screenshot (66)](https://github.com/user-attachments/assets/594772d3-ed58-48dd-a6b6-a148250f4716)
+
+
+![Screenshot (67)](https://github.com/user-attachments/assets/46a37df0-0bdf-418c-bf3c-76daf7d46f5c)
+
+
+![Screenshot (68)](https://github.com/user-attachments/assets/5e92e94e-9d20-4bda-87ba-24bde1fba924)
+
+___
+
+**Enjoy using the Online Book Shop!😊🚀**
 
 
