@@ -67,7 +67,7 @@ ________________________________________________________________________________
 - Create a PostgreSQL database:
 
 ```sql
-CREATE DATABASE bookshop;
+CREATE DATABASE mydb;
 ```
 
 - Update database credentials in Java files:
